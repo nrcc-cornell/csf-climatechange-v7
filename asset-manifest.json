@@ -1,6 +1,6 @@
 {
   "main.css": "static/css/main.65967a76.css",
   "main.css.map": "static/css/main.65967a76.css.map",
-  "main.js": "static/js/main.6b47334d.js",
-  "main.js.map": "static/js/main.6b47334d.js.map"
+  "main.js": "js/toolinit.js",
+  "main.js.map": "js/toolinit.js.map"
 }
